@@ -1,7 +1,7 @@
 # rtl8188eus
 This is the updated and error free driver for TP-link wn772n v2/3 wifi adapter.
 
-# Steps to install this driver on your linux machine
+# Steps to install this driver on your linux machine. Plug in the adapter first.
 1. `sudo apt update`
 2. `sudo apt install bc`
 3. `sudo rmmod r8188eu.ko`
