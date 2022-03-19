@@ -12,3 +12,5 @@ This is the updated and error free driver for TP-link wn772n v2/3 wifi adapter.
 8. `sudo make install`
 9. `sudo reboot` (must)
 10. `sudo modprobe 8188eu` (Only if the wifi networks are not shown on your machine)
+
+# Original Driver can be found at https://github.com/aircrack-ng/rtl8188eus
