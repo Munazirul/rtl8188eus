@@ -2,7 +2,8 @@
 This is the updated and error free driver for TP-link wn772n v2/3 wifi adapter.
 If you still face any trouble installing this driver on your Kali machine, my suggestion is to download Parrot Home from - https://deb.parrot.sh/parrot/iso/5.0.1/Parrot-home-5.0.1_amd64.iso.torrent  or  https://deb.parrot.sh/parrot/iso/5.0.1/ 
 There is no need to install any driver on your parrot OS Home edition.
-"Do not" update or upgrade your Parrot OS after downloading and installing it on virtualBox (apt update and upgrade)
+"Do not" update or upgrade your Parrot OS after downloading and installing it on virtualBox (apt update and upgrade).
+I am personally using my TP-Link adapter on my Parrot OS Home without the requirement of any driver.
 # Steps to install this driver on your linux machine. Plug in the adapter first.
 1. `sudo apt update`
 2. `sudo apt install dkms bc`
